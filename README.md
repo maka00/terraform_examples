@@ -1,4 +1,4 @@
-# Azure App service with Postgres
+# Azure App Service with Postgres
 
 This is an example to create an Azure App Service with an Postgres server  
 
